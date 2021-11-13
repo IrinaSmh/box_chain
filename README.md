@@ -1,8 +1,20 @@
-# box_chain
-Project for hackaton
+<h1>Сервер для сервиса Boxchain</h1>
+<h4>Реализованная функциональность</h4>
+<ul>
+    <li>Вход в приложение</li>
+    <li>Прохождение обучения и регистрация пользователя</li>
+    <li>Отображение и развитие аватара, генерация QR кода</li>
+    <li>Система достижений</li>
+    <li>Магазин товаров, Рейтинг пользователей, Раздел достижений, Информационный раздел с картой, полезными статьями и описанием видов собираемых отходов</li>
+</ul> 
+<h4>Основной стек технологий:</h4>
+<ul>
+  <li>Java 11</li>
+  <li>Spring Boot</li>
+  <li>Hibernate</li>
+</ul>
 
-Server for boxchain project
+РАЗРАБОТЧИКИ
 
-Tools: java 11, Spring Boot
+<h4>Самоходкина Ирина backend https://t.me/irinasmh</h4>
 
-Developer: Samokhodkina Irina, VSTU Student
